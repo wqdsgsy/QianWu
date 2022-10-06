@@ -15,7 +15,6 @@ content:
   # Automatically link email and phone or display as text?
   autolink: true
 
-
   # Email form provider
   form:
     provider: netlify
@@ -52,7 +51,7 @@ content:
       icon_pack: fas
       name: Zoom Me
       link: 'https://zoom.com'
-  
+
 design:
   columns: '2'
 ---
