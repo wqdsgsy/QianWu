@@ -34,9 +34,6 @@ content:
     postcode: '65201'
     country: United States
     country_code: US
-  coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
   directions: Enter Lafferre Hall and take the stairs to Office C2206 on Floor 2
   office_hours:
   All day
