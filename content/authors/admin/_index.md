@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Qian Wu 吳謙
+title: Qian Wu (吳謙)
 
 # Full name (for SEO)
 first_name: Qian
