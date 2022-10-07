@@ -10,7 +10,7 @@ date: "2015-09-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2022-06-16"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,14 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters, 128*(244301)"
+publication: "*Physical Review Letters, 128* (244301)"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Wave frequency is a critical parameter for applications ranging from structural health monitoring, noise control, and medical imaging to quantum of energy in matter. Frequency conversion is an inevitable wave phenomenon in nonlinear or time-modulated media. However, frequency conversion in linear media holds the promise of breaking limits imposed by the physics laws of wave diffraction such as Snell’s law and Rayleigh criterion. In this Letter, we physically introduce a linear active metalayer in a structural beam that can convert the wave frequency of an flexural incidence into arbitrary frequencies of transmitted waves, which is underpinned by time modulation of sensing signals and insensitive to incident amplitude. The active element, involving piezoelectric components and time-modulated transfer function, breaks energy conservation such that the generated harmonics can be fully decoupled, making the frequency conversion
+linear and independent. By leveraging the time-modulated unit, phase-gradient and frequency-gradient metalayers are proposed for frequency-converted wave steering and dynamic beam steering, respectively. The linear active metalayer proposed herein suggests a promising solution to fully control time-domain signals of flexural waves, in stark contrast with existing elastic metasurfaces, regardless of being passive or active.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
 
 tags:
 - Source Themes
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.128.244301
 url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
