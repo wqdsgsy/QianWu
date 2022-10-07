@@ -19,7 +19,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Letters, 128* (244301)"
+publication: "*Physical Review Letters, 128*(244301)"
 publication_short: ""
 
 abstract: Wave frequency is a critical parameter for applications ranging from structural health monitoring, noise control, and medical imaging to quantum of energy in matter. Frequency conversion is an inevitable wave phenomenon in nonlinear or time-modulated media. However, frequency conversion in linear media holds the promise of breaking limits imposed by the physics laws of wave diffraction such as Snell’s law and Rayleigh criterion. In this Letter, we physically introduce a linear active metalayer in a structural beam that can convert the wave frequency of an flexural incidence into arbitrary frequencies of transmitted waves, which is underpinned by time modulation of sensing signals and insensitive to incident amplitude. The active element, involving piezoelectric components and time-modulated transfer function, breaks energy conservation such that the generated harmonics can be fully decoupled, making the frequency conversion
