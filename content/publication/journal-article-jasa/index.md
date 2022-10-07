@@ -1,12 +1,13 @@
 ---
-title: "Omnidirectional wave polarization manipulation in isotropic polar solids"
+title: "Asymmetric scattering of flexural waves in a parity-time symmetric metamaterial beam"
 authors:
 - admin
+- Yangyang Chen
 - Guoliang Huang
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-04-17T00:00:00Z"
+date: "2019-07-31T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -19,10 +20,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*International Journal of Solids and Structures, 241*(111481)"
+publication: "*The Journal of the Acoustical Society of America, 146*(850)"
 publication_short: ""
 
-abstract: Mode conversion and anomalous wave polarization between shear and longitudinal waves have been mainly explored in anisotropic solids. However, the use of elastic anisotropy inevitably introduces fundamental limitation in operative directions, which is not desirable for applications. In this study, we propose to use two-dimensional (2D) isotropic polar media that exhibit polarity and chirality moduli to achieve the above behaviors in an omnidirectional way, thereby realizing omnidirectional wave polarization manipulation. First, we formulate analytically and numerically a nearly perfect wave mode conversion, enabled by the chirality modulus, through a polar slab. Then, we emphasize that the polarity modulus causes the omnidirectional anomalous wave polarization which features faster shear modes. Two supplementary examples of the anomalous wave polarization, including singly polarized transmission and anomalous wave refraction, are presented. The former corresponds to a ‘‘fluid-like’’ or a ‘‘shear-wave’’ solid, depending on the choice of the polarity modulus. While the latter shows a longitudinal incidence causes no shear refraction beyond a critical angle at the interface between a Cauchy and a polar media. All the cases investigated here are directionally independent, drastically differing from those in anisotropic systems. It is our hope that the isotropic polar media could represent a new platform for the exploration of versatile polarization manipulation devices.
+abstract: Non-Hermitian parity-time (PT) symmetric systems that possess real eigenvalues have been intensively investigated in quantum mechanics and rapidly extended to optics and acoustics demonstrating a lot of unconventional wave phenomena. Here, a PT symmetric metamaterial beam is designed based on shunted piezoelectric patches and asymmetric wave scattering in the form of flexural waves is demonstrated through analytical and numerical approaches. The gain and loss components in the PT symmetric beam are realized by the introduction of negative and positive resistances into the external shunting circuits, respectively. Effective medium theory and transfer matrix method are employed to determine the effective material parameters and scattering properties of the PT symmetric metamaterial beam. Unidirectional reflectionlessness has been demonstrated analytically and numerically, together with illustrations of the PT phase transition and exceptional points. The tunability of exceptional points is studied by changing the spacing between piezoelectric patches and shunting circuit parameters. The design explores complex material parameters of the beam structure, and could open unique ways to asymmetric wave control, enhanced sensing, amplification, and localization of flexural waves.
 
 # Summary. An optional shortened abstract.
 #summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
@@ -34,7 +35,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0020768322000440
+url_pdf: https://asa.scitation.org/doi/abs/10.1121/1.5116561
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
