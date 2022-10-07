@@ -74,12 +74,11 @@ email: ''
 highlight_name: true
 ---
 
-I was born in Ganzhou, Jiangxi, China. I am currently a postdoctoral researcher of mechanical engineering at the Structured Materials and Dynamics Lab. My research interests include active elastic metamaterials, phononic topological phase, and non-Hermitian mechanical systems.
+I was born in Ganzhou, Jiangxi, China. I am currently a postdoctoral researcher at the Structured Materials and Dynamics Lab, working at the interface of applied physics and mechanical engineering. Fascinated by the non-Hermitian physics, my current interests are primarily on the investigation of rich elastic wave dynamics triggered by the marriage of topological phase and non-Hermiticity.
 
-My PhD study was mainly focused on the exploration of unprecedented control over elastic waves with both passive and active metamaterial structures.
+My PhD research focused mainly on exploring unconventional control over elastic waves with both passive and active metamaterial structures.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Wu, Qian_PhD Dissertation.pdf" "newtab" >}}PhD Dissertation{{< /staticref >}}.
 
-Outside the lab, I enjoy playing Dota 2 and CSGO and watching pro tournaments.
 
 
