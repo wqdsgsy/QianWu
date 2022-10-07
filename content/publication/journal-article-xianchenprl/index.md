@@ -1,14 +1,19 @@
 ---
-title: "In-Plane Second-Order Topologically Protected States in Elastic Kagome Lattices"
+title: "Physical observation of a robust acoustic pumping in waveguides with dynamic boundary"
 authors:
+- Xianchen Xu
 - admin
 - Hui Chen
-- Xiaopeng Li
+- Hussein Nassar
+- Yangyang Chen
+- Andrew Norris
+- Michael R Haberman
 - Guoliang Huang
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
-date: "2020-07-28T00:00:00Z"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
+date: "2020-12-15T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +26,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Physical Review Applied, 14*(014084)"
+publication: "*Physical Review Letters, 128*(244301)"
 publication_short: ""
 
-abstract: Second-order topological insulators, which exhibit capability of hosting topologically protected zero-dimensional corner states distinct from the well-studied topological edge states, unveil a horizon beyond the conventional bulk-edge correspondence. Motivated by recent experimental observation of Wannier-type second-order corner states in acoustic structures, we investigate numerically and demonstrate experimentally the in-plane edge and corner states in a mechanical kagome lattice. By manipulating simply lattice geometry and quantized characterization, we exploit that the emerging corner states are topologically robust against disorders. We further present a second-order topological insulator with multi-interfaces such that the mechanical energy can be localized in multiple locations, which provides the possibility of practical application in energy harvesting devices. The present study is the physical observation to extend the second-order topological insulator to in-plane elastic dynamics, and modal coupling of in-plane elasticity makes it more challenging to be measured experimentally.
+abstract: Research on breaking time-reversal symmetry to realize one-way wave propagation is a growing area in photonic and phononic crystals and metamaterials. In this Letter, we present physical realization of an acoustic waveguide with spatiotemporally modulated boundary conditions to realize nonreciprocal transport and acoustic topological pumping. The modulated waveguide inspired by a water wheel consists of a helical tube rotating around a slotted tube at a controllable speed. The rotation of the helical tube creates moving boundary conditions for the exposed waveguide sections at a constant speed. We experimentally demonstrate acoustic nonreciprocity and topologically robust bulk-edge correspondences for this system, which is in good agreement with analytical and numerical predictions. The nonreciprocal waveguide is a one-dimensional analog to the two-dimensional quantum Hall effect for acoustic circulators and is characterized by a robust integer-valued Chern number. These findings provide insight into practical implications of topological modes in acoustics and the implementation of higher-dimensional topological
+acoustics where time serves as a synthetic dimension.
 
 # Summary. An optional shortened abstract.
 #summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
@@ -36,7 +42,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prapplied/pdf/10.1103/PhysRevApplied.14.014084
+url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.125.253901
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
