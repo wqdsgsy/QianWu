@@ -29,7 +29,7 @@ abstract: Active metamaterials with electronic control schemes can exhibit nonre
 
 
 # Summary. An optional shortened abstract.
-#summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
+summary: Complex dispersion engineering via a series of nonlocal feed-forward control gives rise to rich non-reciprocal wave dynamics.
 
 tags:
 - Source Themes
