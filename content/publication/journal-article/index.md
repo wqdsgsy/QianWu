@@ -32,7 +32,7 @@ summary: Realization of harmonic conversion with arbitrary conversion frequency,
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""

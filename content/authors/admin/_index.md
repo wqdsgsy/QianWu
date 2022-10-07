@@ -74,8 +74,8 @@ email: ''
 highlight_name: true
 ---
 
-Qian Wu is a postdoctoral researcher of mechanical engineering at the Structured Materials and Dynamics Lab. His research interests include active elastic metamaterials, phononic topological phase, and non-Hermitian mechanics.
+I am currently a postdoctoral researcher of mechanical engineering at the Structured Materials and Dynamics Lab. My research interests include active elastic metamaterials, phononic topological phase, and non-Hermitian mechanical systems.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Outside the lab, I enjoy playing Dota 2 and CSGO.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
