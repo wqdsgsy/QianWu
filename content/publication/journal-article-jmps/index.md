@@ -27,11 +27,11 @@ publication_short: ""
 abstract: Research on non-reciprocal propagation of waves is of great significance in the field of photonic and phononic crystals for realizing flexible one-way propagation devices with potential engineering applications. Here, non-reciprocal Rayleigh waves are investigated in a continuous two-dimensional (2D) semi-infinite medium bound with an array of space–time modulated spring–mass oscillators. The involved modulation is a wave-like perturbation of the surface of the continuous medium that breaks time-reversal symmetry and reciprocity. To characterize the propagation of Rayleigh waves in such a complex 2D medium with continuous and discrete interface, an analytical study is performed to obtain dispersion-engineered bandgaps by adopting the asymptotic method and coupled mode theory, which is also validated by numerical simulation. Specifically, the non-reciprocal transmission of Rayleigh waves with one-way mode conversion is illustrated, and various relevant physical quantities, including conversion length and band gap size, are quantitatively estimated. This work sheds light on versatile control of Rayleigh wave propagation ranging from sensing and evaluation of engineering structures to guided wave-based damage detection techniques
 
 # Summary. An optional shortened abstract.
-summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
+summary: Realization of harmonic and mode conversion for Rayleigh waves on a space-time modulated surface.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
