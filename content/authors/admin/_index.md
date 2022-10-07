@@ -74,8 +74,8 @@ email: ''
 highlight_name: true
 ---
 
-I am currently a postdoctoral researcher of mechanical engineering at the Structured Materials and Dynamics Lab. My research interests include active elastic metamaterials, phononic topological phase, and non-Hermitian mechanical systems.
+I was born in Ganzhou, Jiangxi, China. I am currently a postdoctoral researcher of mechanical engineering at the Structured Materials and Dynamics Lab. My research interests include active elastic metamaterials, phononic topological phase, and non-Hermitian mechanical systems.
 
-Outside the lab, I enjoy playing Dota 2 and CSGO.
+Outside the lab, I enjoy playing Dota 2 and CSGO and watching pro tournaments.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
