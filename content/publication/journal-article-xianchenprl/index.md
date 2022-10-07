@@ -32,11 +32,11 @@ publication_short: ""
 abstract: Research on breaking time-reversal symmetry to realize one-way wave propagation is a growing area in photonic and phononic crystals and metamaterials. In this Letter, we present physical realization of an acoustic waveguide with spatiotemporally modulated boundary conditions to realize nonreciprocal transport and acoustic topological pumping. The modulated waveguide inspired by a water wheel consists of a helical tube rotating around a slotted tube at a controllable speed. The rotation of the helical tube creates moving boundary conditions for the exposed waveguide sections at a constant speed. We experimentally demonstrate acoustic nonreciprocity and topologically robust bulk-edge correspondences for this system, which is in good agreement with analytical and numerical predictions. The nonreciprocal waveguide is a one-dimensional analog to the two-dimensional quantum Hall effect for acoustic circulators and is characterized by a robust integer-valued Chern number. These findings provide insight into practical implications of topological modes in acoustics and the implementation of higher-dimensional topological acoustics where time serves as a synthetic dimension.
 
 # Summary. An optional shortened abstract.
-#summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
+summary: First experimental realization of a robust topological pumping in a spatiotemporally modulated acoustic waveguide, purely mechanically driven.
 
 tags:
 - Source Themes
-featured: false
+featured: true
 
 # links:
 # - name: ""
