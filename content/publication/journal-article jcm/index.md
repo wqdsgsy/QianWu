@@ -1,18 +1,15 @@
 ---
-title: "Odd mass density"
+title: "Engineering nonreciprocal wave dispersion in a nonlocal micropolar metabeam"
 authors:
 - admin
+- P Shivashankar
 - Xianchen Xu
-- Shaoyun Wang
-- Rui Zhu
-- Zheng Yan
-- Hongbin Ma
 - Yangyang Chen
 - Guoliang Huang
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
-date: "2022-10-16T00:00:00Z"
+#author_notes:
+#- "Equal contribution"
+#- "Equal contribution"
+date: "2022-10-20T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -25,10 +22,11 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Proceedings of the National Academy of Sciences (PNAS)*(under review)"
+publication: "*Journal of Composite Materials*(under review)"
 publication_short: ""
 
-abstract: Solids built out of active components have exhibited odd elastic stiffness tensors whose active moduli appear in the antisymmetric part and which give rise to non-Hermitian static and dynamic phenomena. Here we present a new class of active metamaterial featured with an odd mass density tensor whose asymmetric part arises from active and non-conservative forces. The odd mass density is realized using metamaterials with inner resonators connected by asymmetric and programmable feed-forward control on acceleration and active forces along the two perpendicular directions. The active forces produce unbalanced off-diagonal mass density coupling terms, leading to non-Hermiticity. The odd mass is then experimentally validated through a one-dimensional nonreciprocal wave coupling where propagating transverse waves are coupled with longitudinal ones whereas the reverse is forbidden. We reveal that the two-dimensional active metamaterials with the odd mass can perform in either energy-unbroken or energy-broken phases separated by exceptional points along principal directions of the mass density. The odd mass density contributes to the wave anisotropy in the energy-unbroken phase and directional wave energy gain in the energy-broken phase. We also numerically illustrate the two-dimensional wave propagation phenomena that arise from the odd mass in active solids. Finally, the existence of non-Hermitian skin effect is discussed in which boundaries host an extensive number of localized modes. It is our hope that the emergent concept of the odd mass can open up a new research platform for mechanical non-Hermitian system and pave the ways for developing next-generation wave steering devices.
+abstract: Active metamaterials with electronic control schemes can exhibit nonreciprocal and/or complex elastic coefficients that result in non-Hermitian wave phenomena. Here, we investigate theoretically and experimentally a non-Hermitian micropolar metabeam with piezoelectric elements and electronic nonlocal feed-forward control. Since the nonlocal feed-forward control breaks spatial reciprocity, the proposed metabeam supports nonreciprocal flexural wave propagation, featuring unidirectional amplification/attenuation and non-Hermitian skin effect. Theoretical homogenization modeling is developed to consider the nonlocal effect into an effective complex bending stiffness. The unidirectional wave amplification/attenuation is attributed to the energy conversion between electrical power and mechanical work. The non-Hermitian skin effect, characterized by a winding number, is the manifestation of the flexural nonreciprocity and admits an extensive number of localized bulk eigenmodes on open boundaries. The nonlocal metabeam is also employed to engineer the anomalous wave dispersion such as tunable roton-like dispersion and band tilting. Its reciprocity can be easily maintained or broken through electrically programmable transfer functions. The nonlocal micropolar metabeam could pave the ways for designing non-Hermitian topological mechanical metamaterials featuring programmable nonreciprocal wave transmission and engineering roton-like wave dispersion relations under ambient environments.
+
 
 # Summary. An optional shortened abstract.
 #summary: Realization of harmonic conversion with arbitrary conversion frequency, phase, and amplitude. Realization of frequency-converted wave steering and dynamic beam steering.
