@@ -18,7 +18,7 @@ organizations:
     url: https://missouri.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include active elastic metamaterials, topological mechanics and elastodynamics, and non-Hermitian elastic systems.
 
 # Interests to show in About widget
 interests:
