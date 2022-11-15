@@ -1,7 +1,7 @@
 ---
 title: This is a FLAG I made!
 subtitle: Going Singapore for 慧湘
-summary: I met a girl miracally 
+summary: I MADE A PROMISE!
 authors:
   - admin
 tags: []
@@ -18,7 +18,7 @@ image:
 ![png](./index_1_0.png)
 
 
-    I MADE A PROMISE!
+    
  
 
 
