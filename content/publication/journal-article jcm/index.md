@@ -9,7 +9,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-10-20T00:00:00Z"
+date: "2022-11-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Composite Materials*(under review)"
+publication: "*Journal of Composite Materials* 00219983221140562"
 publication_short: ""
 
 abstract: Active metamaterials with electronic control schemes can exhibit nonreciprocal and/or complex elastic coefficients that result in non-Hermitian wave phenomena. Here, we investigate theoretically and experimentally a non-Hermitian micropolar metabeam with piezoelectric elements and electronic nonlocal feed-forward control. Since the nonlocal feed-forward control breaks spatial reciprocity, the proposed metabeam supports nonreciprocal flexural wave propagation, featuring unidirectional amplification/attenuation and non-Hermitian skin effect. Theoretical homogenization modeling is developed to consider the nonlocal effect into an effective complex bending stiffness. The unidirectional wave amplification/attenuation is attributed to the energy conversion between electrical power and mechanical work. The non-Hermitian skin effect, characterized by a winding number, is the manifestation of the flexural nonreciprocity and admits an extensive number of localized bulk eigenmodes on open boundaries. The nonlocal metabeam is also employed to engineer the anomalous wave dispersion such as tunable roton-like dispersion and band tilting. Its reciprocity can be easily maintained or broken through electrically programmable transfer functions. The nonlocal micropolar metabeam could pave the ways for designing non-Hermitian topological mechanical metamaterials featuring programmable nonreciprocal wave transmission and engineering roton-like wave dispersion relations under ambient environments.
@@ -38,7 +38,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.128.244301
+url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00219983221140562
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
