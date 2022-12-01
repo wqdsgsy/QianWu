@@ -1,7 +1,7 @@
 ---
-title: This is a FLAG I made!
-subtitle: Going Singapore for 慧湘
-summary: I MADE A PROMISE!
+title: This is Singapore
+subtitle: Test the post
+summary: Test the post
 authors:
   - admin
 tags: []
