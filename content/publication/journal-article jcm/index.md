@@ -29,7 +29,7 @@ abstract: Active metamaterials with electronic control schemes can exhibit nonre
 
 
 # Summary. An optional shortened abstract.
-summary: Complex dispersion engineering via a series of nonlocal feed-forward control gives rise to rich non-reciprocal wave dynamics.
+summary: Complex dispersion engineering via a series of nonlocal feed-forward control gives rise to rich non-reciprocal wave dynamics. This work is a contributin to a speical issue "Multifunctional composites for autonomic, adaptive and self-sustaining systems" in JCM.
 
 tags:
 - Source Themes
@@ -68,13 +68,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
