@@ -1,15 +1,15 @@
 ---
-title: "Engineering nonreciprocal wave dispersion in a nonlocal micropolar metabeam"
+title: "Optical Fiber Biosensors for Protein Detection: A Review"
 authors:
+- Shuhan Lyu
+- Zheyu Wu
+- Xinghua Shi
 - admin
-- P Shivashankar
-- Xianchen Xu
-- Yangyang Chen
-- Guoliang Huang
+
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-11-28T00:00:00Z"
+date: "2022-12-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Composite Materials* 00219983221140562"
+publication: "*Photonics 2022, 9(12), 987"
 publication_short: ""
 
-abstract: Active metamaterials with electronic control schemes can exhibit nonreciprocal and/or complex elastic coefficients that result in non-Hermitian wave phenomena. Here, we investigate theoretically and experimentally a non-Hermitian micropolar metabeam with piezoelectric elements and electronic nonlocal feed-forward control. Since the nonlocal feed-forward control breaks spatial reciprocity, the proposed metabeam supports nonreciprocal flexural wave propagation, featuring unidirectional amplification/attenuation and non-Hermitian skin effect. Theoretical homogenization modeling is developed to consider the nonlocal effect into an effective complex bending stiffness. The unidirectional wave amplification/attenuation is attributed to the energy conversion between electrical power and mechanical work. The non-Hermitian skin effect, characterized by a winding number, is the manifestation of the flexural nonreciprocity and admits an extensive number of localized bulk eigenmodes on open boundaries. The nonlocal metabeam is also employed to engineer the anomalous wave dispersion such as tunable roton-like dispersion and band tilting. Its reciprocity can be easily maintained or broken through electrically programmable transfer functions. The nonlocal micropolar metabeam could pave the ways for designing non-Hermitian topological mechanical metamaterials featuring programmable nonreciprocal wave transmission and engineering roton-like wave dispersion relations under ambient environments.
+abstract: Proteins play an important role in organisms. The fast and high-accuracy detection of proteins is demanded in various fields, such as healthcare, food safty, and biosecurity, especially in the background of the globally raging severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Optical fiber sensors have great potential for protein detection due to the excellent characteristics of high sensitivity, miniaturization, and capability for remote monitoring. Over the past decades, a large number of structures have been investigated and proposed. This paper begins with an overview of different fiber sensing structures for protein detection according to the fundamental sensing mechanisms. The overview is classified into four sections, including intensity-modulation, phase-modulation, scattering, and fluorescence. In each section, we reviewed the recent advances of fiber protein sensors and compared their performance, such as sensitivity and limit of detection. And then we analyzed the advantages and disadvantages of the four kinds of biosensors. Finally, the paper concludes with the challenges faced and possible future development of optical fiber protein biosensors for further study.
 
 
 # Summary. An optional shortened abstract.
@@ -33,12 +33,12 @@ summary: Complex dispersion engineering via a series of nonlocal feed-forward co
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.sagepub.com/doi/abs/10.1177/00219983221140562
+url_pdf: https://www.mdpi.com/2304-6732/9/12/987
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
