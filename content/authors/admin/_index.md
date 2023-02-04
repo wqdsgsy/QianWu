@@ -80,6 +80,4 @@ My PhD research focused mainly on exploring unconventional control over elastic 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Wu, Qian_PhD Dissertation.pdf" "newtab" >}}PhD Dissertation{{< /staticref >}}.
 
-Outside the lab, I enjoy playing DOTA 2 and CSGO and watching pro tournaments.
-
 
