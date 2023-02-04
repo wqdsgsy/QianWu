@@ -1,5 +1,5 @@
 ---
-title: "An inverse design paradigm of multifunctional elastic metasurface via data-driven machine learning"
+title: "An inverse design paradigm of multi-functional elastic metasurface via data-driven machine learning"
 authors:
 - Weijian Zhou
 - Shuoyuan Wang
@@ -12,7 +12,7 @@ authors:
 #author_notes:
 #- "Equal contribution"
 #- "Equal contribution"
-date: "2022-11-20T00:00:00Z"
+date: "2023-01-04T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -41,7 +41,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.128.244301
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0264127522011832
 #url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
 url_dataset: ''
 url_poster: ''
