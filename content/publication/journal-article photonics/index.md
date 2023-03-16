@@ -28,6 +28,7 @@ publication_short: ""
 abstract: Proteins play an important role in organisms. The fast and high-accuracy detection of proteins is demanded in various fields, such as healthcare, food safty, and biosecurity, especially in the background of the globally raging severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). Optical fiber sensors have great potential for protein detection due to the excellent characteristics of high sensitivity, miniaturization, and capability for remote monitoring. Over the past decades, a large number of structures have been investigated and proposed. This paper begins with an overview of different fiber sensing structures for protein detection according to the fundamental sensing mechanisms. The overview is classified into four sections, including intensity-modulation, phase-modulation, scattering, and fluorescence. In each section, we reviewed the recent advances of fiber protein sensors and compared their performance, such as sensitivity and limit of detection. And then we analyzed the advantages and disadvantages of the four kinds of biosensors. Finally, the paper concludes with the challenges faced and possible future development of optical fiber protein biosensors for further study.
 
 
+
 # Summary. An optional shortened abstract.
 summary: Complex dispersion engineering via a series of nonlocal feed-forward control gives rise to rich non-reciprocal wave dynamics. This work is a contributin to a speical issue "Multifunctional composites for autonomic, adaptive and self-sustaining systems" in JCM.
 
