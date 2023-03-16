@@ -25,7 +25,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Materials & Design*(under review)"
+publication: "*Materials & Design* 111560"
 publication_short: ""
 
 abstract: Elastic metasurfaces have become one of the most promising platforms for manipulating mechanical wavefronts with the striking feature of ultra-thin geometry. The conventional design of mechanical metasurfaces significantly relies on numerical, trial-and-error methods to identify structural parameters of the unit cells, which demands huge computational resources and could be extremely challenging if multifunctional purposes are needed. Machine learning technique provides another powerful tool for design of multifunctional elastic metasurfaces because of its excellent capability in building nonlinear mapping relation between high-dimensional input data and output data. In this paper, a machine learning network is introduced to extract the complex relation between high-dimensional geometrical parameters of the metasurface unit and its high-dimensional dynamic properties. After well training based on a big dataset, this network can play the role of a surrogate model in the inverse design of multi-functional elastic metasurface to significantly shorten the inverse design simulation time. This novel inverse design method can be conveniently extended to design other multifunctional metasurfaces for manipulation of optical, acoustical or mechanical waves.
