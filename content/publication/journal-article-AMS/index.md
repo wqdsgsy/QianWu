@@ -5,9 +5,9 @@ authors:
 - Honghua Qian
 - Yangyang Chen
 - Guoliang Huang
-#author_notes:
-#- "Equal contribution"
-#- "Equal contribution"
+author_notes:
+- "Equal contribution"
+- "Equal contribution"
 date: "2023-02-28T00:00:00Z"
 doi: ""
 

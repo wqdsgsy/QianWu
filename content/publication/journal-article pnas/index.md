@@ -3,6 +3,7 @@ title: "Odd mass density"
 authors:
 - admin
 - Xianchen Xu
+- Honghua Qian
 - Shaoyun Wang
 - Rui Zhu
 - Zheng Yan
@@ -10,6 +11,7 @@ authors:
 - Yangyang Chen
 - Guoliang Huang
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 date: "2022-10-16T00:00:00Z"
